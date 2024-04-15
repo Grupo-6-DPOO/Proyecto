@@ -1,0 +1,80 @@
+{"PiezasEnInventario": [
+  {
+    "puedeSalir": true,
+    "usernameDuenio": "Maria123",
+    "pieza": {
+      "dimensiones": "12,12",
+      "tipo": "PINTURA",
+      "lugarCreacion": "Florencia",
+      "material": "óleo",
+      "observaciones": "Muy Valiosa",
+      "titulo": "Mona Lisa",
+      "autores": ["Leonardo Da Vinci"],
+      "anio": "1500"
+    },
+    "enConsignacion": false,
+    "historialDuenios": ["Maria123"],
+    "ubicacionEnGaleria": "ENEXHIBICION"
+  },
+  {
+    "puedeSalir": false,
+    "usernameDuenio": "Juan123",
+    "pieza": {
+      "dimensiones": "12,12,12",
+      "tipo": "ESCULTURA",
+      "lugarCreacion": "Florencia",
+      "material": "mármol",
+      "peso": "mármol",
+      "observaciones": "Muy Valiosa",
+      "titulo": "David",
+      "autores": ["Miguel Ángel"],
+      "anio": "1500",
+      "necesitaElectricidad": false
+    },
+    "enConsignacion": true,
+    "historialDuenios": [
+      "Maria123",
+      "Juan123"
+    ],
+    "ubicacionEnGaleria": "BODEGA"
+  },
+  {
+    "puedeSalir": true,
+    "usernameDuenio": "Juan123",
+    "pieza": {
+      "tipo": "VIDEO",
+      "lugarCreacion": "Hollywood",
+      "resolucion": "1080p",
+      "observaciones": "Larga",
+      "titulo": "Titanic",
+      "duracion": 400,
+      "autores": [
+        "David Cameron",
+        "Leonardo Di Caprio"
+      ],
+      "anio": "1996"
+    },
+    "enConsignacion": false,
+    "historialDuenios": ["Juan123"],
+    "ubicacionEnGaleria": "BODEGA"
+  },
+  {
+    "puedeSalir": true,
+    "usernameDuenio": "Maria123",
+    "pieza": {
+      "tipo": "FOTOGRAFIA",
+      "lugarCreacion": "Afganistán",
+      "resolucion": "1080p",
+      "observaciones": "Ninguna",
+      "titulo": "Niña afgana",
+      "autores": ["Steve McCurry"],
+      "anio": "1996"
+    },
+    "enConsignacion": false,
+    "historialDuenios": [
+      "Juan123",
+      "Maria123"
+    ],
+    "ubicacionEnGaleria": "FUERADEGALERIA"
+  }
+]}

@@ -1,0 +1,46 @@
+{
+    "PiezasEnInventario":[
+        
+        {
+            "pieza":{"tipo":"PINTURA","titulo":"Mona Lisa","anio":"1500","lugarCreacion":"Florencia","autores":["Leonardo Da Vinci"],"observaciones":"Muy Valiosa","dimensiones":"12,12","material":"óleo"},
+            "ubicacionEnGaleria":"ENEXHIBICION",
+            "enConsignacion":false,
+            "salidaConsignacion":"_",
+            "usernameDuenio":"Maria123",
+            "puedeSalir":true,
+            "historialDuenios":["Maria123"],
+            "id":0
+        },
+        {
+            "pieza":{"tipo":"ESCULTURA","titulo":"David","anio":"1500","lugarCreacion":"Florencia","autores":["Miguel Ángel"],"observaciones":"Muy Valiosa","dimensiones":"12,12,12","material":"mármol","peso":"1000","necesitaElectricidad":false},
+            "ubicacionEnGaleria":"BODEGA",
+            "enConsignacion":true,
+            "salidaConsignacion":"12/12/2025",
+            "usernameDuenio":"Juan123",
+            "puedeSalir":false,
+            "historialDuenios":["Maria123","Juan123"],
+            "id":1
+        },
+        {
+            "pieza":{"tipo":"VIDEO","titulo":"Titanic","anio":"1996","lugarCreacion":"Hollywood","autores":["David Cameron","Leonardo Di Caprio"],"observaciones":"Larga","duracion":"400","resolucion":"1080p"},
+            "ubicacionEnGaleria":"BODEGA",
+            "enConsignacion":false,
+            "salidaConsignacion":"_",
+            "usernameDuenio":"Juan123",
+            "puedeSalir":true,
+            "historialDuenios":["Juan123"],
+            "id":2
+        },
+        {
+            "pieza":{"tipo":"FOTOGRAFIA","titulo":"Niña afgana","anio":"1996","lugarCreacion":"Afganistán","autores":["Steve McCurry"],"observaciones":"Ninguna","resolucion":"1080p"},
+            "ubicacionEnGaleria":"FUERADEGALERIA",
+            "enConsignacion":false,
+            "salidaConsignacion":"_",
+            "usernameDuenio":"Maria123",
+            "puedeSalir":true,
+            "historialDuenios":["Juan123","Maria123"],
+            "id":3
+        }
+    ]
+
+}

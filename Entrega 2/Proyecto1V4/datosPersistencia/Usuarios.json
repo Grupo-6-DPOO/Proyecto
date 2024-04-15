@@ -1,0 +1,9 @@
+{
+    "usuarios":[
+    {"rol":"ADMINISTRADOR","username":"Admin","password":"123"},
+    {"rol":"CAJERO","username":"Cajero","password":"123"},
+    {"rol":"OPERADOR","username":"Operador","password":"123"},
+    {"rol":"CLIENTE","username":"Maria123","password":"123","nombre":"Maria","correo":"maria@uniandes.edu.co","piezasCompradas":[3],"valorMaximoCompras":10000,"valorActualCompras":100,"piezasEnPosesionVigente":[0],"piezasEnPosesionNoVigente":[1]},
+    {"rol":"CLIENTE","username":"Juan123","password":"123","nombre":"Juan","correo":"juan@uniandes.edu.co","piezasCompradas":[1],"valorMaximoCompras":20000,"valorActualCompras":500,"piezasEnPosesionVigente":[1,2],"piezasEnPosesionNoVigente":[3]}
+]
+}
