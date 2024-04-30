@@ -1,0 +1,8 @@
+{"pagosRegistrados": [{
+  "fecha": "24/04/2024",
+  "idPieza": 0,
+  "monto": 100000,
+  "usernameComprador": "Juan123",
+  "id": 0,
+  "medioDePago": "TARJETA"
+}]}

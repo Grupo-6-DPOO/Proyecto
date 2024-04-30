@@ -1,0 +1,47 @@
+{"PiezasEnInventario": [
+  {
+    "puedeSalir": true,
+    "usernameDuenio": "Juan123",
+    "pagosPorPieza": [0],
+    "pieza": {
+      "artistas": ["Leonardo Da Vinci"],
+      "dimensiones": "12,12",
+      "tipo": "PINTURA",
+      "lugarCreacion": "Florencia",
+      "material": "Oleo",
+      "observaciones": "Muy Valiosa",
+      "titulo": "Mona Lisa",
+      "anio": "1509"
+    },
+    "enConsignacion": false,
+    "historialDuenios": [
+      "Maria123",
+      "Juan123"
+    ],
+    "id": 0,
+    "salidaConsignacion": "_",
+    "ubicacionEnGaleria": "ENEXHIBICION"
+  },
+  {
+    "puedeSalir": false,
+    "usernameDuenio": "Juan123",
+    "pagosPorPieza": [],
+    "pieza": {
+      "artistas": ["Miguel Angel"],
+      "dimensiones": "12,12,12",
+      "tipo": "ESCULTURA",
+      "lugarCreacion": "Florencia",
+      "material": "Marmol",
+      "peso": "1000",
+      "observaciones": "Muy pesada",
+      "titulo": "David",
+      "anio": "1503",
+      "necesitaElectricidad": false
+    },
+    "enConsignacion": true,
+    "historialDuenios": ["Juan123"],
+    "id": 1,
+    "salidaConsignacion": "12/12/2025",
+    "ubicacionEnGaleria": "ENEXHIBICION"
+  }
+]}

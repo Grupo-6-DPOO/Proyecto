@@ -1,0 +1,41 @@
+{"usuarios": [
+  {
+    "valorActualCompras": 100000,
+    "password": "123",
+    "piezasCompradas": [0],
+    "piezasEnPosesionVigente": [
+      1,
+      0
+    ],
+    "piezasEnPosesionNoVigente": [],
+    "correo": "juan@uniandes.edu.co",
+    "valorMaximoCompras": 200000,
+    "nombre": "Juan",
+    "pagosDelUsuario": [0],
+    "rol": "CLIENTE",
+    "username": "Juan123"
+  },
+  {
+    "password": "123",
+    "rol": "CAJERO",
+    "username": "Cajero"
+  },
+  {
+    "password": "123",
+    "rol": "ADMINISTRADOR",
+    "username": "Admin"
+  },
+  {
+    "valorActualCompras": 0,
+    "password": "123",
+    "piezasCompradas": [],
+    "piezasEnPosesionVigente": [],
+    "piezasEnPosesionNoVigente": [],
+    "correo": "maria@uniandes.edu.co",
+    "valorMaximoCompras": 10000,
+    "nombre": "Maria",
+    "pagosDelUsuario": [],
+    "rol": "CLIENTE",
+    "username": "Maria123"
+  }
+]}
